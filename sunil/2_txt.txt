@@ -1,0 +1,6 @@
+Here is the result of who am ihello my name is sunil reddy and const num1 = 10;
+const num2 = 16;
+function add(){
+    console.log(`The sum of${num1} and ${num2} is ${num1 + num2}`)
+}
+add()
